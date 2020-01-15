@@ -1,0 +1,27 @@
+body {
+    background: url('../img/Astronaut-art-picture-black-background_2560x1440.jpg');
+    background-color: #F5F4DB;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+h1
+{
+    color: white;
+    margin-top: 40%;
+    background-color: rgba(0,0,0,.4);
+    width: 125px;
+    margin-left: 36%;
+}
+
+div {
+    position: relative;
+    left: 31%;
+    top: 130px;
+    width: 550px;
+    height: 500px;
+    border: solid 2px rgba(32, 210, 160, .15);
+    text-align: center;
+}
